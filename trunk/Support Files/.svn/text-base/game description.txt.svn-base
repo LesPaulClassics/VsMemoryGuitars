@@ -1,0 +1,15 @@
+Test your memory by playing the classic card matching game with 24 pair of guitar cards.  A total of 36 classic electric guitars are included, of which 24 are randomly chosen per game.  Upon the player successfully matching a pair of cards, a full size image of that guitar is displayed along with a short history.
+
+There are three ways to play:
+1) One Player
+2) One Player Vs The Computer
+3) Two Player
+In the "Vs The Computer" mode, the computers IQ can be adjusted for varying levels of difficulty.
+
+
+1.0
+Initial Release.  Based on the VsMemory application library.  
+
+
+Promo Text:
+Classic Guitars in a Classic Game

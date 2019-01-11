@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="CurrentPlayerBack">#F1F3B1</color>
+	<color name="CurrentPlayerText">#000000</color>
+	<color name="OtherPlayerBack">#0A0C33</color>
+	<color name="OtherPlayerText">#FFFFFF</color>
+	<color name="BackgroundColor">#0A0C33</color>
+    <string name="app_name">VsGuitars</string>
+	<string-array name="MATCH_TITLE_ARRAY">
+		<item>Select a Guitar to Test</item>
+		<item>Gibson Les Paul Standard</item>	
+		<item>Gibson ES-335 Dot Plain</item>
+		<item>Gibson Explorer</item>
+		<item>Gibson L-5 CES</item>
+		<item>American Standard Stratocaster</item>
+		<item>Fender 52 AVRI Telecaster</item>
+		<item>Gretsch Corvette</item>
+		<item>Country Gentleman 1959</item>
+		<item>Gretsch Country Classic 1962</item>
+		<item>Epiphone Casino</item>
+		<item>Parker Fly</item>
+		<item>Gibson Les Paul Junior</item>
+		<item>Paul Reed Smith Custom 24</item>
+		<item>Ibanez Artist Series</item>
+		<item>Dean Razorback</item>
+		<item>ESP Truckster LTD</item>
+		<item>Gibson Flying V</item>
+		<item>Fender Jazzmaster</item>
+		<item>Gibson Firebird X</item>
+		<item>Gibson \"The Log\"</item>
+		<item>Gretsch White Falcon G6136CST</item>
+		<item>PRS 25th Anniversary Dragon</item>
+		<item>Vox Mark VI</item>
+		<item>Fender 62 AVRI Jaguar</item>
+		<item>Rickenbacker 360/12</item>
+		<item>National Newport</item>
+		<item>Jackson Randy Rhodes</item>
+		<item>Gibson SG</item>
+		<item>Ibanez JEM20 Steve Vai</item>
+		<item>Gibson EDS-1275</item>
+		<item>Gretsch Duo Jet</item>
+		<item>Mosrite \"The Ventures\"</item>
+		<item>Gibson Les Paul \"Black Beauty\"</item>
+		<item>Fender Telecaster Thinline</item>
+		<item>Westone Dimension IV</item>
+		<item>Gibson CS-356</item>
+	</string-array>
+	<string-array name="MATCH_DESCRIPTION_ARRAY">
+	 	<item>Empty Description</item>
+		<item>The Gibson Les Paul was developed in 1952 by Ted McCarty and jazz musician Les Paul.  By the late 50s it had evolved into the configuration that is sold to this day.</item>
+		<item>The Gibson ES-335 was introduced in 1958 to combine modern solidbody design with traditional hollowbody features.  It has been in continuous production ever since.</item>
+		<item>The Gibson Explorer was introduced in 1958 - considered a radical and futuristic body design.  It was not successful until it\'s reintroduction in 1976.</item>
+		<item>The Gibson L-5 was an acoustic archtop first produced in 1922.  In 1951 the CES was created by adding P-90 pickups to the original model, then in 1958, humbuckers.</item>
+		<item>When Fender\'s current ownership took over from CBS in 1985, it overhauled the standard Stratocaster design with a new tremolo and truss rod.</item>
+		<item>The telecaster began production in 1950 as the Broadcaster, eventually renamed the Telecaster in 1952.  It was the first mass-produced solidbody electric guitar.</item>
+		<item>After the Les Paul Junior\'s success, Gretsch introduced its own inexpensive solidbody in 1961: The Corvette was offered with one or two pickups and a Burns vibrato.</item>
+		<item>Despite having 1959 in its name, this was not a reissue of the 1959 Country Gentleman - it was a custom design from guitarist Paul Yandell, a long-time Atkins friend.</item>
+		<item>In 1990 when Gretsch first reissued its Chet Atkins models, the Atkins endorsement was gone, so the Country Gentlemen was renamed the Country Classic.</item>
+		<item>The Casino was introduced in 1961 as the Epiphone version of Gibson\'s ES-330, but soon gained more fame than the original thanks to the Beatles.</item>
+		<item>The Parker Fly was first introduced in 1993, and is unique for its composite materials resulting in light weight and excellent resonance.</item>
+		<item>In 1954 Gibson stripped down the Les Paul to a single P-90 pickup, one volume and one tone knob, resulting in the Junior which was offered for a very competitive $120.</item>
+		<item>The Custom 24 debuted in 1985 as the first guitar crafted by Paul Reed Smith.  It is still in production and is the core of PRS\'s line.</item>
+		<item>Ibanez started producing the artist series in the mid 1970\'s. Endorsed by Bob Weir and Steve Miller, it established Ibanez as a maker of high quality original instruments.</item>
+		<item>The Dean Razorback Series was designed with "Dimebag" Darrell Abbott of Pantera in 2004, shortly before he was tragically murdered onstage during a performance in Ohio.</item>
+		<item>The ESP James Hetfield Truckster Electric Guitar is manufactured to the exact specifications of James\' Truckster, a modified ESP Eclipse-style stage guitar.</item>
+		<item>The Flying V was first offered in 1957 as a futuristic new guitar design,  but was a failure until it\'s reissue in 1967 after being embraced by Dave Davies and Jimi Hendrix.</item>
+		<item>The Jazzmaster was introduced in 1958 as an upscale Stratocaster to appeal to jazz guitarists, but instead found favor with surf rock guitarists in the early 60s.</item>
+		<item>The Firebird X was announced in late 2010 as the latest generation of Gibson robotic guitars.  It is lightweight, rich in onboard effects, and features piezo as well as ceramic pickups.</item>
+		<item>To demonstrate the potential of a solidbody electric guitar design, Les Paul built \"The Log\" in 1941 from a 4-in square piece of wood and the sides from a conventional archtop.</item>
+		<item>The original Gretsch White Falcon of 1955 was the highest-price model in the Gretsch line, and was reissued in 2004 when Gretsch came under Fender\'s control.</item>
+		<item>These guitars with unique dragon ornamentation on the fretboard were made in very limited quantities in 2009 and 2010 for the 25th Anniversary of Paul Reed Smith Guitars.</item>
+		<item>Introduced in 1963, this iconic teardrop guitar design was made popular by Brian Jones of The Rolling Stones.  A 12-string version was later released as the Mark XII.</item>
+		<item>Derived from the Jazzmaster and introduced in 1962, the Fender Jaguar featured a shorter 24-inch scale.  Discontinued in 1975, it was resurrected in the 90\'s by alternative rock bands.</item>
+		<item>One of the first electric 12-string guitars, the 360/12 was introduced in 1964 and embraced by George Harrison on \"A Hard Day\'s Night\". It defined the \"jangly\" sound of The Byrds as well.</item>
+		<item>The Newport debuted in 1962 and featured a hollow body constructed of two molded fiberglass shells joined by a vinyl gasket. Weak pickups and poor resonance led to the demise of this design.</item>
+		<item>In 1983 Grover Jackson developed the Randy Rhodes model as the first guitar under his own brand name. The popularity of this model led to the success of Jackson guitars.</item>
+		<item>In 1959 Gibson redesigned the underperforming Les Paul with a thinner, flat mahogany body and double cutaway. By 1963 the new design was renamed \"SG\" for Solidbody Guitar.</item>
+		<item>The JEM was co-designed by Steve Vai and first produced in 1987.  The 20th anniversary model is constructed of clear acrylic and can be illuminated by internal green LEDs.</item>
+		<item>Introduced in 1963, the Gibson EDS-1275 is a doubleneck (6-string and 12-string) guitar popularized by Jimmy Page and John McLaughlin.</item>
+		<item>Gretsch responded to Fender\'s and Gibson\'s solidbody guitars with the Duo Jet in 1953.  In 1961 George Harrison purchased a 1957 model as his first American-made guitar.</item>
+		<item>Semie Moseley founded Mosrite Guitars in California in 1956.  By 1962 he was producing the Joe Maphis model, which eventually evolved into The Ventures model by 1966.</item>
+		<item>In 1957 Gibson upgraded the Les Paul Custom with 3 humbucking pickups.  Although the gold pickup covers added a dimension of elegance, the awkward switch configuration limited its appeal.</item>
+		<item>The Fender Telecaster Thinline was designed in 1968 to reduce weight as a result of the increasing difficulty of obtaining lightweight ash wood which was traditionally used.</item>
+		<item>Manufactured for only two years in the mid-1980\'s, the Dimension IV was part of an unsuccessful revamping of this struggling Japanese brand\'s product line.</item>
+		<item>The CS-336 was developed by the Gibson Custom Shop as a smaller, lighter weight version of the ES-335. The CS-356 is the upgraded version of this guitar.</item>
+	</string-array>
+<string name="IMAGES_ENABLED">true</string>
+</resources>
